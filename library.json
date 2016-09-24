@@ -1,0 +1,13 @@
+{
+  "name": "steemduino",
+  "keywords": "steem, steemit, crypto, cryptocurrency",
+  "description": "A library for interacting with the steem web socket api",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/jonblack/steemduino.git"
+  },
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
